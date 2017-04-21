@@ -1,0 +1,39 @@
+{
+  "data":[
+    {
+      "company": "NIXELT",
+      "phone": "+1 (848) 456-2927",
+      "address": "340 Livingston Street, Winchester, North Dakota, 8285"
+    },
+    {
+      "company": "SCHOOLIO",
+      "phone": "+1 (873) 520-2306",
+      "address": "616 Utica Avenue, Fontanelle, Palau, 5787"
+    },
+    {
+      "company": "GOLISTIC",
+      "phone": "+1 (916) 589-3494",
+      "address": "159 Kane Place, Osmond, Utah, 7100"
+    },
+    {
+      "company": "PROSELY",
+      "phone": "+1 (889) 458-3710",
+      "address": "632 Quentin Street, Mooresburg, New Jersey, 5648"
+    },
+    {
+      "company": "KIDSTOCK",
+      "phone": "+1 (811) 585-3638",
+      "address": "286 Heath Place, Greenock, Federated States Of Micronesia, 2647"
+    },
+    {
+      "company": "XANIDE",
+      "phone": "+1 (969) 555-3792",
+      "address": "967 Joval Court, Bentley, Connecticut, 9408"
+    },
+    {
+      "company": "QUAILCOM",
+      "phone": "+1 (858) 492-3792",
+      "address": "541 Nixon Court, Lowgap, Arizona, 2587"
+    }
+  ]
+}

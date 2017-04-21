@@ -1,0 +1,10 @@
+<article>
+  <h4>Nos utilisateurs</h4>
+<ul>
+  <li *ngFor="let user of users" (click)="setSelectedUser(user)">
+    <a href="">{{user.name}}</a>
+  </li>
+</ul>
+<user *ngIf="selectedUser" [user]="selectedUser"></user>
+
+</article>

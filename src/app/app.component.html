@@ -1,3 +1,17 @@
-<h1>
-  {{title}}
-</h1>
+<div>
+  <header>
+
+    <nav>
+      <ul>
+        <li><a href="" [routerLink]="['/']">Veoila</a></li>
+        <li><a href="" [routerLink]="['/users']">Users</a></li>
+        <li><a href="" [routerLink]="['/clients']">Client</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <router-outlet></router-outlet>
+    </section>
+  </main>
+</div>
